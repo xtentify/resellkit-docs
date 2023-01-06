@@ -1,0 +1,2 @@
+arrow color: #022aa1
+arrow secondary color: #cf0a0a
