@@ -68,7 +68,7 @@ const config = {
           //{to: 'https://blog.resellkit.app/', label: 'Blog', position: 'left'},
           {
             label: 'Download',
-            position: 'right'
+            position: 'right',
             to: 'https://resellkit.app/download/',
           },
           {
